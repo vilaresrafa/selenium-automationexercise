@@ -4,13 +4,13 @@ Este repositório contém a implementação dos testes automatizados ponta a pon
 
 ---
 
-## 🎯 Casos de Teste
+## Casos de Teste
 
 ### 1. Test Case 3: Login com e-mail e senha incorretos
 - **Objetivo:** Verificar se a tentativa de login com credenciais incorretas falha e exibe a mensagem de erro: `"Your email or password is incorrect!"`.
 - **Classe de Teste:** [`LoginIncorrectTest.java`](src/test/java/com/exercicio/selenium/tests/LoginIncorrectTest.java)
 
-#### 📊 Particionamento em Classes de Equivalência e Análise de Valor Limite (5 Entradas)
+#### Particionamento em Classes de Equivalência e Análise de Valor Limite (5 Entradas)
 
 | Método de Teste | Técnica Utilizada | E-mail de Entrada | Senha de Entrada | Descrição do Caso | Resultado Esperado |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@ Este repositório contém a implementação dos testes automatizados ponta a pon
 
 ---
 
-## 📁 Estrutura do Projeto (Page Object Model)
+## Estrutura do Projeto (Page Object Model)
 
 ```
 aulaselenium/
@@ -48,7 +48,7 @@ aulaselenium/
 
 ---
 
-## 🚀 Como Executar os Testes
+## Como Executar os Testes
 
 Na raiz do projeto (`aulaselenium`), execute:
 
